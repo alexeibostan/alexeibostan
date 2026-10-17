@@ -1,13 +1,13 @@
-## Alexei Bostan · Senior Software Engineer
+## Hi, I'm Alexei 👋 · Senior Software Engineer
 
-[![Website](https://img.shields.io/badge/website-alexeibostan.com-111111?style=flat-square)](https://alexeibostan.com)
+[![Website](https://img.shields.io/badge/website-alexeibostan.com-0D9488?style=flat-square)](https://alexeibostan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexei--bostan-0A66C2?style=flat-square)](https://www.linkedin.com/in/alexei-bostan)
 
-I ship production features end to end for product teams: React, Next.js, TypeScript and Node.js, **10 years in**.
+🚀 I ship production features end to end for product teams: React, Next.js, TypeScript and Node.js, **10 years in**.
 
-I work AI-native with **Claude Code** and **Codex**, and keep the bar with typed APIs, tests and CI gates.
+🤖 I work AI-native with **Claude Code** and **Codex**, and keep the bar with typed APIs, tests and CI gates.
 
-### Stack
+### 🛠️ Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
