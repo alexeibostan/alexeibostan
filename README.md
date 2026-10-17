@@ -1,4 +1,4 @@
-## Alexei Bostan · Senior full-stack engineer
+## Alexei Bostan · Senior Software Engineer
 
 [![Website](https://img.shields.io/badge/website-alexeibostan.com-111111?style=flat-square)](https://alexeibostan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexei--bostan-0A66C2?style=flat-square)](https://www.linkedin.com/in/alexei-bostan)
